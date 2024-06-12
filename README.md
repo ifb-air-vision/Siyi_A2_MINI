@@ -7,3 +7,6 @@ Before connecting to your media player, check the connection to the camera by ru
 
 OBS:
 the system **cannot be connected to the wifi network**.
+
+## Based on:
+https://discuss.cubepilot.org/t/ground-unit-eth0-not-getting-an-ip/10473/6
