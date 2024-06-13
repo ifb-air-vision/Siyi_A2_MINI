@@ -2,7 +2,7 @@
 
 # Update the package list and install dnsmasq and dhcpcd
 sudo apt update
-sudo apt install -y dnsmasq dhcpcd
+sudo apt install -y dnsmasq dhcpcd5
 
 # Configure dnsmasq to provide DHCP on the eth0 interface
 echo "interface=eth0
